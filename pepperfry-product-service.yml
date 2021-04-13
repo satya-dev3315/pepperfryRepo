@@ -9,3 +9,7 @@ spring:
     show-sql: false 
 product: 
     defaultCategory: trendy
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: false       
