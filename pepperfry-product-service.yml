@@ -8,4 +8,4 @@ spring:
     generate-ddl: false
     show-sql: true 
 product: 
-    defaultCategory: elecronics
+    defaultCategory: fashion
