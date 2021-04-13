@@ -6,4 +6,4 @@ spring:
     password: root
   jpa:
     generate-ddl: false
-    show-sql: false  
+    show-sql: true 
