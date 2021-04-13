@@ -7,3 +7,5 @@ spring:
   jpa:
     generate-ddl: false
     show-sql: true 
+product: 
+    defaultCategory: elecronics
