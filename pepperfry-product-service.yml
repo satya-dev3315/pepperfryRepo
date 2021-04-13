@@ -6,6 +6,6 @@ spring:
     password: root
   jpa:
     generate-ddl: false
-    show-sql: true 
+    show-sql: false 
 product: 
-    defaultCategory: fashion
+    defaultCategory: trendy
